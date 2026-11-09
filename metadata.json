@@ -1,0 +1,6 @@
+{
+  "name": "Al-Bayan: AI-Powered Quran & Tafseer Ecosystem",
+  "description": "Advanced Islamic & EdTech Quran application with verse-by-verse multi-Qari audio recitation, Urdu/Sindhi/English translations, Tajweed coloring, AI Tafseer assistant, smart voice search, and offline reading.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

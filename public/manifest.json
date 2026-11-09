@@ -1,0 +1,18 @@
+{
+  "short_name": "Al-Bayan",
+  "name": "Al-Bayan: AI-Powered Quran & Tafseer Ecosystem",
+  "description": "Advanced Islamic & EdTech Quran application with verse-by-verse multi-Qari audio recitation, translations, and AI Tafseer.",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#080d11",
+  "theme_color": "#10b981",
+  "icons": [
+    {
+      "src": "https://ai.google.dev/static/site-assets/images/share-ais-513315318.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
